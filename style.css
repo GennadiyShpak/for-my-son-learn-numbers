@@ -1,0 +1,14 @@
+.btn {
+    width: 200px;
+    height: 100px;
+}
+.btn_wrapper {
+    display: block;
+    text-align: center;
+}
+
+.number {
+    margin: 0;
+    font-size: 200px;
+    text-align: center;
+}
